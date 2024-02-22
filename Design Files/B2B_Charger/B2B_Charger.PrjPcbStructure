@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Buck-Boost_Sheet.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Buck-Boost_Sheet.SchDoc|FileName=Controller_Sheet.SchDoc|SheetNumber=2
