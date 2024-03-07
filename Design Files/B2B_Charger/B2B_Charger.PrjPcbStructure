@@ -1,2 +1,3 @@
-Record=TopLevelDocument|FileName=Buck-Boost_Sheet.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Buck-Boost_Sheet.SchDoc|FileName=Controller_Sheet.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=Top_Sheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_Buck-Boost_Sheet|SchDesignator=U_Buck-Boost_Sheet|FileName=Buck-Boost_Sheet.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Buck-Boost_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_Controller_Sheet|SchDesignator=U_Controller_Sheet|FileName=Controller_Sheet.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Controller_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
