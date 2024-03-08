@@ -47,6 +47,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Reverse_Protection_Sheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EUBEQGLQ
+
+[Document2]
 DocumentPath=Buck-Boost_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -63,7 +80,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XRRZCUMF
 
-[Document2]
+[Document3]
 DocumentPath=Controller_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -80,7 +97,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JJKTBUBO
 
-[Document3]
+[Document4]
 DocumentPath=Buck-Boost_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -97,7 +114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document5]
 DocumentPath=Controller_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -114,7 +131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
 DocumentPath=Top_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -130,6 +147,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGNFRSWB
+
+[Document7]
+DocumentPath=C:\Users\Hunain\OneDrive\Desktop\Schlib1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VCGHRWIX
 
 [Configuration1]
 Name=Sources
